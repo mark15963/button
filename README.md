@@ -1,15 +1,21 @@
 # Компоненты
 
 Кнопка:
-<Button 
+
+```
+<Button
     color=""
     title=""
     onClick=""
 />
+```
 
 Поле ввода:
-<input 
-    value="" 
-    onChange="" 
-    type="" 
+
+```
+<input
+    value=""
+    onChange=""
+    type=""
 />
+```
